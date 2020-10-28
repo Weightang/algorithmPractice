@@ -1,0 +1,17 @@
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/install.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/package_source.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/package.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/install/local.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/install/strip.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/install.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/list_install_components.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/package_source.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/rebuild_cache.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/edit_cache.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/package.dir
+/Users/fmc_ios/Desktop/now/CLionProjects/algorithm/cmake-build-debug/dataStructures/CMakeFiles/list_array.dir
